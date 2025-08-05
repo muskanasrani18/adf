@@ -1,4 +1,4 @@
-To copy data from source table(EmployeeDetails) in sql server to sink table(EDetails) in sql server in adf
+To copy data from source table(EmployeeDetails) in on prem sql server to sink table(EDetails) in on prem sql server in adf
 
 1.Enabled CDC in database and table using this code:
 EXEC sys.sp_cdc_enable_db; // for db
