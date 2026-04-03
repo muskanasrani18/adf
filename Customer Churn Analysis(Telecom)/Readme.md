@@ -16,7 +16,7 @@ Step 1: Create Azure Resources
        
 Step 2: Upload Dataset
 - Download Telecom Churn dataset (CSV)
-- Upload it into: upload it into raw-data container.
+- Upload it into raw-data container.
 
 Step 3: Setup Azure Databricks
 1. Create Azure Databricks workspace
