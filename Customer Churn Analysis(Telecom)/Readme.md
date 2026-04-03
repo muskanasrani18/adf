@@ -73,7 +73,7 @@ input_path
 Trigger pipeline
 
 Step 12: Schedule Trigger
-Create Trigger (Daily / Manual)
+Create Trigger (Daily)
 Run pipeline
 
 Step 13: Power BI Dashboard
